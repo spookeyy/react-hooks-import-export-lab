@@ -1,5 +1,5 @@
 import React from "react";
-import { image } from "../data/user";
+import { image } from "../data/user";  //import named export
 
 export default function About() {
   return (
